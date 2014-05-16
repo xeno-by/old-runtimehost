@@ -9,4 +9,4 @@ at [Palladium Shared](https://drive.google.com/#folders/0Bxbd8B9L-XfmcE9tRFBXVjZ
 
 ### How to use
 
-The project is in a very early stage, so it's not supposed to be useful just yet. However, if you're brave enough, we have a nightly build that publishes artifacts to Sonatype at `"org.scalareflect" % "runtimehost_2.11.0-RC3" % "0.1.0-SNAPSHOT"`.
+The project is in a very early stage, so it's not supposed to be useful just yet. However, if you're brave enough, we have a nightly build that publishes artifacts to Sonatype at `"org.scalareflect" % "runtimehost_2.11" % "0.1.0-SNAPSHOT"`.
